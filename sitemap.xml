@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chuj.xyz/game/index.html</loc>
+    
+    <lastmod>2018-10-28T06:10:51.284Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chuj.xyz/movie/index.html</loc>
+    
+    <lastmod>2018-10-28T06:10:17.137Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chuj.xyz/book/index.html</loc>
+    
+    <lastmod>2018-10-28T06:08:43.332Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://chuj.xyz/statistics/index.html</loc>
     
     <lastmod>2018-10-28T05:16:21.273Z</lastmod>
@@ -30,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://chuj.xyz/books/index.html</loc>
-    
-    <lastmod>2018-10-28T03:43:33.320Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://chuj.xyz/photos/index.html</loc>
     
     <lastmod>2018-10-21T05:31:37.033Z</lastmod>
@@ -47,13 +61,6 @@
     <loc>https://chuj.xyz/whoami/index.html</loc>
     
     <lastmod>2018-10-21T04:59:54.898Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chuj.xyz/video/index.html</loc>
-    
-    <lastmod>2018-10-20T16:30:37.534Z</lastmod>
     
   </url>
   
